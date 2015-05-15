@@ -2,6 +2,9 @@ gs
 logs
 *.log
 
+# app output
+output.json
+
 # Runtime data
 pids
 *.pid

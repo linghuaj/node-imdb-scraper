@@ -2,7 +2,7 @@
 
 - scrape a page using request, cheerio.
 - using es6 and babel
-- output to json file
+- output to json file in current repo
 
 ## start up 
 
