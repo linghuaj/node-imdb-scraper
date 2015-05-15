@@ -5,8 +5,10 @@
 - using one page from imdb as a example
 - output to json file in current repo
 
-## start up 
+## set up 
+- [set up BabelJS] (https://gist.github.com/vanessachem/d071027fad39507b9c9f)
 
+## start up 
 ```javascript	
 npm start
 ```
