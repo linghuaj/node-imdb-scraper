@@ -1,0 +1,23 @@
+{
+  "name": "node-imdb-scraper",
+  "version": "1.0.0",
+  "description": "simple node imdb scaper using es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node -- --stage 1 --optional strict -- index.js"
+  },
+  "keywords": [
+    "node",
+    "webscraper",
+    "es6"
+  ],
+  "author": "linghua jin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.12.3",
+    "request": "^2.55.0",
+    "songbird": "^1.0.1"
+  }
+}
